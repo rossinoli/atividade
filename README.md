@@ -1,31 +1,29 @@
 # Meus Exercícios de Python 🐍
 
-Bem-vindo ao meu repositório de exercícios de Python! Este projeto é uma coleção de scripts desenvolvidos para praticar e demonstrar conceitos fundamentais da programação utilizando a linguagem Python.
+Bem-vindo ao meu repositório de exercícios de Python! Este projeto evoluiu de scripts básicos para coleções completas de lógica de programação, organizadas por módulos temáticos.
 
 ## 📝 Sobre o Projeto
 
-Este repositório serve como um portfólio de aprendizado, cobrindo uma variedade de tópicos essenciais, incluindo:
+Este repositório serve como um portfólio de aprendizado. Aqui, documento minha evolução na linguagem Python, cobrindo desde conceitos fundamentais até lógicas de decisão complexas com menus interativos.
 
--   **Lógica de Programação:** Resolução de problemas passo a passo.
--   **Estruturas de Repetição:** Uso de laços `for` e `while`.
--   **Estruturas Condicionais:** Implementação de lógica com `if`, `elif`, e `else`.
--   **Funções:** Criação de blocos de código reutilizáveis com parâmetros e retorno.
--   **Manipulação de Dados:** Leitura de entradas do usuário e conversão de tipos (`int`, `float`).
--   **Módulos Nativos:** Utilização de bibliotecas como `random`.
+### Tópicos Abordados:
+- **Lógica de Programação:** Resolução de problemas passo a passo.
+- **Estruturas de Decisão:** Uso avançado de `if`, `elif` e `else`.
+- **Estruturas Sequenciais:** Manipulação de entradas e cálculos matemáticos.
+- **Funções e Dicionários:** Organização de código em blocos reutilizáveis e menus dinâmicos.
+- **Manipulação de Dados:** Conversão de tipos (`int`, `float`) e formatação de saídas.
 
 ---
 
-## 🚀 Exercícios Resolvidos
+## 🚀 Organização do Repositório
 
-Aqui está a lista de todos os scripts disponíveis neste repositório, com uma breve descrição do que cada um faz.
+Aqui estão os módulos disponíveis, divididos por pastas:
 
-| Arquivo | Descrição | Conceitos Praticados |
+| Pasta | Descrição | Exercícios |
 | :--- | :--- | :--- |
-| **`exer1.py`** | Recebe dois números e exibe todos os valores inteiros que estão no intervalo entre eles. | `for`, `range()`, `min()`, `max()`, `input()` |
-| **`exer2.py`** | Realiza sorteios de números aleatórios (0-100) até que o número 55 seja encontrado. Ao final, informa o total de tentativas. | `while`, `random.randint()`, contadores |
-| **`exer3.py`** | Uma calculadora simples que permite ao usuário escolher entre quatro operações (média, diferença, produto, divisão) para dois números. | `if/elif/else`, operadores aritméticos, `input()` |
-| **`exer4.py`** | Calcula o aumento de salário a partir de um valor e uma porcentagem. Utiliza uma função para o cálculo e valida as entradas. | Funções, parâmetros, `return`, validação com `if` |
-| **`exer5.py`** | Um conversor de temperaturas que transforma valores entre Celsius e Fahrenheit, baseado na escolha do usuário. | Funções, `if/elif/else`, formatação de strings |
+| **`01-basico-inicial`** | Scripts desenvolvidos nos primeiros meses de estudo (calculadoras e loops). | 5 scripts |
+| **`02-estrutura-sequencial`** | Lista focada em cálculos, áreas, salários e conversões de medidas. | 18 exercícios |
+| **`03-estrutura-decisao`** | Desafios de lógica complexa, incluindo cálculo de IR, triângulos e cupom fiscal. | 27 exercícios |
 
 ---
 
